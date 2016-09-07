@@ -3,7 +3,7 @@
         "blog",
         "ace",
         "add-header",
-        "-chatlog"
+        "chatlog"
     ],
     "pluginsConfig": {}
 }
