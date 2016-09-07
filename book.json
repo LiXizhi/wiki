@@ -2,7 +2,8 @@
     "plugins": [
         "blog",
         "ace",
-        "add-header"
+        "add-header",
+        "chatlog"
     ],
     "pluginsConfig": {}
 }
