@@ -1,7 +1,8 @@
 {
     "plugins": [
         "blog",
-        "ace"
+        "ace",
+        "add-header"
     ],
     "pluginsConfig": {}
 }
