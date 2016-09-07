@@ -3,7 +3,8 @@
         "blog",
         "ace",
         "add-header",
-        "chatlog"
+        "chatlog",
+        "bilibili"
     ],
     "pluginsConfig": {}
 }
