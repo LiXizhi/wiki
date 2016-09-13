@@ -5,7 +5,8 @@
         "add-header",
         "chatlog",
         "bilibili",
-        "exercises"
+        "exercises",
+        "disqus"
     ],
     "pluginsConfig": {}
 }
